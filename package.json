@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/Laudekoodit/lk2020-nodebot#readme",
   "dependencies": {
+    "ajax": "0.0.4",
     "dotenv": "^8.2.0",
+    "request": "^2.88.2",
     "telegraf": "^3.36.0"
   }
 }
